@@ -1,0 +1,9 @@
+@namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+@namespace url(http://www.w3.org/1999/xhtml);
+html,body,table,td {background-color: #C7EDCC !important;}
+
+a:link    {color:#0000FF!important;}      
+a:hover   {color:#0000FF!important;background:#00EE00!important;}
+a:active  {color:#FF0000!important;background:#00EE00!important;}
+a:visited {color:#000088!important;}
+p,h1,h2,h3,h4,h5,h6,em,span,pre,ul,article,div{color: black!important;background-color:#C7EDCC !important;}
